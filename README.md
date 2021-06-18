@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @huzaifa-as
 - 👀 I’m interested in Mobile application development (RN, swift, JAVA).
 - 🌱 I’m currently learning React web, swift and React Native bridging.
-- 👨‍💻 My open source <a href="https://github.com/facebook/react-native/pulls?q=huzaifaaak">contributions</a>
+- 👨‍💻 My open source React Native <a href="https://github.com/facebook/react-native/pulls?q=huzaifaaak">contributions</a>
